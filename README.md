@@ -1300,7 +1300,3 @@ Submitted to:
 - ✅ Rate limiting for security
 - ✅ Database optimization
 - ✅ Comprehensive README
-
----
-
-**Built with ❤️ for Trade Brains Backend Developer Assignment**
